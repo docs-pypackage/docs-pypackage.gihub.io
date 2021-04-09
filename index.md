@@ -8,4 +8,4 @@ go to [my discord server](https://discord.gg/zdrSUu98BP) there in general write 
 
 Then i will add you
 
-[reload site](https://docs-pypackage.gihub.io)
+
