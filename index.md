@@ -1,4 +1,4 @@
-# docs-pypackage.gihub.io
+# docs-pypackage
 
 This is used to create documentation for your python packages
 
